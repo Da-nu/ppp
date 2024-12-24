@@ -137,7 +137,7 @@ The general process is:
 [xdelta_url]: https://github.com/jmacd/xdelta-gpl
 
 [p5_ps4]: docs/Persona_5_PS4.md
-[p5r_ps4]: docs/Persona_5_PS4.md
+[p5r_ps4]: docs/Persona_5_Royal_PS4.md
 [p4d_ps4]: docs/Persona_4_Dancing_PS4.md
 [p4d_psv]: docs/Persona_4_Dancing_PSV.md
 [p3d_ps4]: docs/Persona_3_Dancing_PS4.md
